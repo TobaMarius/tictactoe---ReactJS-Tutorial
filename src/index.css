@@ -49,3 +49,12 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+
+.historyButtons {
+  margin-top: 10px;
+  background-color: #4caf50; /* Green */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 14px;
+}
